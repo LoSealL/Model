@@ -1,8 +1,8 @@
-# PIRM 2018 SR Test
+# VideoSuperResolution Pre-trained Models
+Model
+|-- tensorflow
+|--|-- model-name.zip..
+|-- pytorch
+|--|-- model-name.pth..
 
-## HOW TO RUN
-`python test_model.py`
-
-or
-
-`python test_model.py --model=model.pb --test_dir=./Data`
+Refer to [VSR](https://github.com/LoSealL/VideoSuperResolution) repo's `prepare_data.py` to load models.
